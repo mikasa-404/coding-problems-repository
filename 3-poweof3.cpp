@@ -14,6 +14,7 @@ public:
         
 //         isPowerOfThree(n);    
 //     }
+
     //second function
     bool isPowerOfThree(int n) {
         if(n<0)
