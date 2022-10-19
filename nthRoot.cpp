@@ -1,1 +1,1 @@
-//nth rppt of a number
+//nth root of a number
