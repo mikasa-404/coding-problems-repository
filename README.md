@@ -10,6 +10,7 @@
 | Check if a number is palindrome| [isPalindrome.cpp](./isPalindrome.cpp) | | Two pointer |
 | Check if a number is prime or not| [primeorNot.cpp](./primeorNot.cpp) | | |
 | Given an integer n, return the number of prime numbers that are strictly less than n. | [countPrime.cpp](./countPrime.cpp) | [204. Count Primes](https://leetcode.com/problems/count-primes/description/) | Sieve of Eratosthene |
+| find lcm and gcd | [gcdAndlcm.cpp](./gcdAndlcm.cpp) | | |
 
 
 
