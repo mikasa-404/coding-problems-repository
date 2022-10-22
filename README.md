@@ -11,6 +11,12 @@
 | Check if a number is prime or not| [primeorNot.cpp](./primeorNot.cpp) | | |
 | Given an integer n, return the number of prime numbers that are strictly less than n. | [countPrime.cpp](./countPrime.cpp) | [204. Count Primes](https://leetcode.com/problems/count-primes/description/) | Sieve of Eratosthene |
 | find lcm and gcd | [gcdAndlcm.cpp](./gcdAndlcm.cpp) | | |
+| Binary to decimal | [bin2dec.cpp](./bin2dec.cpp) | | |
+| Decimal to binary| [dec2bin.cpp](./dec2bin.cpp) | | |
+| Binomial coefficient using dynamic programming o(2^n)| [dec2bin.cpp](./dec2bin.cpp) | | |
+
+
+
 
 
 
