@@ -13,7 +13,11 @@
 | find lcm and gcd | [gcdAndlcm.cpp](./gcdAndlcm.cpp) | | |
 | Binary to decimal | [bin2dec.cpp](./bin2dec.cpp) | | |
 | Decimal to binary| [dec2bin.cpp](./dec2bin.cpp) | | |
-| Binomial coefficient using dynamic programming o(2^n)| [dec2bin.cpp](./dec2bin.cpp) | | |
+| Binomial coefficient using rec/DP | [bincoeff.cpp](./bincoeff.cpp) | | Dynamic Programming and recursion |
+| Trailing zeroes in n  | [trailingZeroes.cpp](./trailingZeroes.cpp) | | |
+| Trailing zeroes in n factorial| [trailingZeroesfact.cpp](./trailingZeroesfact.cpp) | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| Legendre's formula |
+
+
 
 
 
