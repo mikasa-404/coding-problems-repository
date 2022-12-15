@@ -15,7 +15,7 @@
 | Decimal to binary| [dec2bin.cpp](./dec2bin.cpp) | | | |
 | Binomial coefficient using rec/DP | [bincoeff.cpp](./bincoeff.cpp) | | Dynamic Programming and recursion | |
 | Trailing zeroes in n  | [trailingZeroes.cpp](./trailingZeroes.cpp) | | | |
-| Trailing zeroes in n factorial| [trailingZeroesfact.cpp](./trailingZeroesfact.cpp) | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| Legendre's formula | |
+| Trailing zeroes in n factorial| [trailingZeroesfact.cpp](./trailingZeroesfact.cpp) | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| Legendre's formula | TRUE | 
 | kth Largest/smallest element in an array| [kthLargestelem.cpp](./kthLargestelem.cpp) | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)| Array | |
 | kth Largest/smallest element in an array 2| | | Max heap | |
 | Move all negative elements to one side of the array| [moveNegatives.cpp](./moveNegatives.cpp)| | Two pointer | |
