@@ -20,6 +20,7 @@
 | kth Largest/smallest element in an array 2|  | | Max heap | |
 | Move all negative elements to one side of the array| [moveNegatives.cpp](./moveNegatives.cpp)| | Two pointer | |
 | Reverse an integer| [reverse.cpp](./reverse.cpp)| | | |
+| Wave array| [wave.cpp](./wave.cpp)| | | |
 | Armstrong | [armstrong.cpp](./armstrong.cpp)| | | |
 | Intersection of two arrays | [intersectionOfarrays.cpp](./intersectionOfarrays.cpp)|[349. Itersection of arrays ](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Sets/ Hashmaps | |
 | Two sum- sorted imput array   | [twoSum.cpp](./twoSum.cpp)| [167. TwoSum-II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | |
