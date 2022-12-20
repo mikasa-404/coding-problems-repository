@@ -17,7 +17,7 @@
 | Trailing zeroes in n  | [trailingZeroes.cpp](./trailingZeroes.cpp) | | | |
 | Trailing zeroes in n factorial| [trailingZeroesfact.cpp](./trailingZeroesfact.cpp) | [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| Legendre's formula | TRUE | 
 | kth Largest/smallest element in an array| [kthLargestelem.cpp](./kthLargestelem.cpp) | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)| Array | |
-| kth Largest/smallest element in an array 2| | | Max heap | |
+| kth Largest/smallest element in an array 2|  | | Max heap | |
 | Move all negative elements to one side of the array| [moveNegatives.cpp](./moveNegatives.cpp)| | Two pointer | |
 | Reverse an integer| [reverse.cpp](./reverse.cpp)| | | |
 | Armstrong | [armstrong.cpp](./armstrong.cpp)| | | |
@@ -27,8 +27,9 @@
 | Rotate array by k steps   | [kRotate.cpp](./kRotate.cpp)| [189. RotateArray ](https://leetcode.com/problems/rotate-array/description/) | Reverse an array/modulo | |
 | First and last occurence in sorted array   | [firstLast.cpp](./firstLast.cpp)| [34.  ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Binary search | |
 | Total occurences of x in sorted array   | [totalOccurences.cpp](./totalOccurences.cpp)| | Binary search | |
-| Sort an array of 0s, 1s and 2s | [012.cpp](./012.cpp)| [34.  ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Dutch national Algo | |
+| Sort an array of 0s, 1s and 2s | [012.cpp](./012.cpp)| [75. Sort Colors  ](https://leetcode.com/problems/sort-colors/description/) | Dutch national Algo | |
 
 
-
+[**] : Pending
+[ TRUE ] : marked important
 
