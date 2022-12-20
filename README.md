@@ -28,8 +28,10 @@
 | First and last occurence in sorted array   | [firstLast.cpp](./firstLast.cpp)| [34.  ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Binary search | |
 | Total occurences of x in sorted array   | [totalOccurences.cpp](./totalOccurences.cpp)| | Binary search | |
 | Sort an array of 0s, 1s and 2s | [012.cpp](./012.cpp)| [75. Sort Colors  ](https://leetcode.com/problems/sort-colors/description/) | Dutch national Algo | |
+| Given mxn matrix return all elemnents in spiral order | [spiralPrint-1.cpp](./spiralPrint-1.cpp)| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 2d matrix | |
+| Generate n x n matrix filled with elements from 1 to n2 in spiral order | [spiral-2.cpp](./spiral-2.cpp)| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | 2d matrix | |
 
-
+##
 [**] : Pending
 [ TRUE ] : marked important
 
