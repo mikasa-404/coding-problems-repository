@@ -1,3 +1,6 @@
+/*Given two sorted integer arrays nums1 and nums2, print their intersection.
+All the elements in nums1 and nums2 are unique. While printing, the order of elements must be maintained.
+If there is no intersection, print -1 instead.*/
 
 #include<bits/stdc++.h>
 using namespace std;   
@@ -5,23 +8,25 @@ using namespace std;
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        vector <int> intersec;
-        int flag=0;
-        
-
-        for(int j=0; j<nums2.size();j++){
-               auto result = find(nums1.begin(), nums1.end(), nums2[j]);
-            if(result!=end(nums1))
-            {
-                flag=1;
-                cout<<nums2[j]<<" found"<<endl;
-                    intersec.push_back(nums2[j]);
-            }
-        }
-    if(flag==1)
-   return intersec; 
-   else 
-   return {};
+      //consider a set S and push element of nums 1 in it
+      //consider another set and push  those eleemnt of nums2 in it which are in the set S
+      //this set is your nanswer
+      set<int> s;
+      set<int> ans;
+      for(auto h: nums1){
+            s.insert(h);
+      }
+      for (int i = 0; i < nums2.size(); i++)
+      {
+        int x=nums2[i];
+        if(s.find(x)!=s.end())
+            ans.insert(x);
+      }
+      vector<int> a;
+      for(int x: ans){
+      a.push_back(x);}
+      // get unique values
+      return a;
    }
 
 };

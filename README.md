@@ -21,4 +21,14 @@
 | Move all negative elements to one side of the array| [moveNegatives.cpp](./moveNegatives.cpp)| | Two pointer | |
 | Reverse an integer| [reverse.cpp](./reverse.cpp)| | | |
 | Armstrong | [armstrong.cpp](./armstrong.cpp)| | | |
+| Intersection of two arrays | [intersectionOfarrays.cpp](./intersectionOfarrays.cpp)|[349. Itersection of arrays ](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Sets/ Hashmaps | |
+| Two sum- sorted imput array   | [twoSum.cpp](./twoSum.cpp)| [167. TwoSum-II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | |
+| Three sum   | [threeSum.cpp](./threeSum.cpp)| [15. 3Sum ](https://leetcode.com/problems/3sum/) |array/two pointers | ** |
+| Rotate array by k steps   | [kRotate.cpp](./kRotate.cpp)| [189. RotateArray ](https://leetcode.com/problems/rotate-array/description/) | Reverse an array/modulo | |
+| First and last occurence in sorted array   | [firstLast.cpp](./firstLast.cpp)| [34.  ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Binary search | |
+| Total occurences of x in sorted array   | [totalOccurences.cpp](./totalOccurences.cpp)| | Binary search | |
+| Sort an array of 0s, 1s and 2s | [012.cpp](./012.cpp)| [34.  ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | Dutch national Algo | |
+
+
+
 
