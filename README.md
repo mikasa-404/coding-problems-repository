@@ -31,7 +31,17 @@
 | Sort an array of 0s, 1s and 2s | [012.cpp](./012.cpp)| [75. Sort Colors  ](https://leetcode.com/problems/sort-colors/description/) | Dutch national Algo | |
 | Given mxn matrix return all elemnents in spiral order | [spiralPrint-1.cpp](./spiralPrint-1.cpp)| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 2d matrix | |
 | Generate n x n matrix filled with elements from 1 to n2 in spiral order | [spiral-2.cpp](./spiral-2.cpp)| [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | 2d matrix | |
+| Longest Substring Without Repeating Characters | [LongestSbstringwithoutR.cpp](./LongestSbstringwithoutR.cpp)| [3. Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | sliding window | |
+| Search a 2D matrix (sorted)| [search2D.cpp](./search2D.cpp)| [74. Search a 2D Matrix
+](https://leetcode.com/problems/search-a-2d-matrix/) | staircase search | |
 
+
+## Daily Leetcode
+| Solution | Link | Topics/algo | Date |
+|[sameTree.cpp](./sameTree.cpp)| [74. Search a 2D Matrix](https://leetcode.com/problems/same-tree/) | staircase search | 10 Jan 2023 |
+
+
+https://leetcode.com/problems/climbing-stairs/ --> recursion
 ##
 [**] : Pending
 [ TRUE ] : marked important
